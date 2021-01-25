@@ -557,7 +557,9 @@ left: 190px;
     }
     .pop h3{
         position: absolute;
-        top: 3000px;
+        top: 1558px;
+        width: 300px;
+        left: 100px;
     }
     .pop h1{
         position: absolute;
@@ -585,7 +587,7 @@ left: 190px;
     }
     .puts{
         position: absolute;
-        top: 1000px;
+        top: 2300px;
     }
     .con{
         height: 2300px;
@@ -594,10 +596,89 @@ left: 190px;
         margin-top: 3000px;
     }
     .ops{
-        margin-top: 2000px;
+        position: absolute;
+        left: -100px;
+        width: 500px;
     }
+    .ops img{
+        width: 500px;
+    }
+
     .fifty{
-        margin-top: 13000px;
+        margin-top: 906px;
     }
+
+
+    .message input{
+       margin-left: -405px;
+        width: 100px;
+
+    }
+    .message button{
+    margin-left: -790px;
+        width: 150px;
+        margin-top: -65px;
+}
+    .message p{
+        color: white;
+        margin-left: -600px;
+    }
+    .react h1{
+        margin-top: -2250px;
+        margin-left: -120px;
+    }
+    .react p{
+        margin-left: -135px;
+        width: 340px;
+        text-align: center;
+    }
+    footer{
+        position: absolute;
+        top: 4740px;
+        height: 500px;
+    }
+    .sixos{
+        position: absolute;
+        left: 50px;
+        width: 300px;
+    }
+    .g{
+        position: absolute;
+        left: 100px;
+        width: 250px;
+    }
+    .q{
+        top: 1125px;
+        width: 250px;
+        left: 100px;
+    }
+    .p{
+        top: 1270px;
+        left: 100px;
+    }
+    .psax input{
+        margin-left: -290px;
+        width: 120px;
+        margin-top: -900px;
+    }
+    .psax button{
+        left: -400px;
+        top: 70px;
+    }
+    .box-9{
+        left: 30px;
+        top: 170px;
+    }
+    .box-10{
+        left: 240px;
+        top: 170px;
+    }
+    .box-11{
+        left: 100px;
+        top: 330px;
+        text-align: center;
+    }
+
+
 
 }
