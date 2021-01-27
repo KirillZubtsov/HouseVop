@@ -505,6 +505,7 @@ left: 190px;
     margin-top: 240px;
     margin-left: 90px;
     text-align: center;
+    width: 0;
 }
     .menu a{
         margin-left: -300px;
@@ -668,17 +669,22 @@ left: 190px;
     .box-9{
         left: 30px;
         top: 170px;
+        text-align: center;
     }
     .box-10{
         left: 240px;
         top: 170px;
+        text-align: center;
     }
     .box-11{
         left: 100px;
         top: 330px;
         text-align: center;
     }
-
+ .main{
+     width: 395px;
+     height: 820px;
+ }
 
 
 }
